@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+
+<center>
+<body background="fondo2.jpg">
+</center>
+
+<form>
+
+<fieldset>
+<legend><em>Datos del Contacto</em></legend>
+
+<label> <for ="Nombre"> Nombre</label> 
+<br/> <input type=text" size="20" maxlength ="20"><br/>
+
+<label> <for ="Apellido Paterno"> Apellido Paterno</label> 
+<br/> <input type=text" size="20" maxlength ="20"></br>
+
+<label> <for ="Apellido Materno"> Apellido Materno</label> 
+<br/> <input type=text" size="20" maxlength ="20"><br/>
+
+
+
+<form>
+<label> Dia</label><br/>
+<select name="dia">
+<option value="0"></option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<br/>
+</select>
+</form>
+
+<form>
+<label> Mes</label><br/>
+<select name="Mes">
+<option value="0"></option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<br/>
+</select>
+</form>
+
+<form>
+<label> Año</label><br/>
+<select name="Dia">
+<option value="0"></option>
+<option value="1">2000</option>
+<option value="2">2001</option>
+<option value="3">2002</option>
+<option value="4">2003</option>
+<option value="5">2004</option>
+<option value="6">2005</option>
+<option value="7">2006</option>
+<option value="8">2007</option>
+<option value="9">2008</option>
+<option value="10">2009</option>
+<option value="11">2010</option>
+<option value="12">2011</option>
+<option value="13">2012</option>
+<option value="14">2013</option>
+<option value="15">2014</option><br/>
+</select>
+
+<form>
+
+<br/>
+
+<label> Sexo</label><br/>
+<input type="radio" name="sexo" value="2"
+id="Sexo2">
+<label for"sexo2"> Masculino</label><br/>
+
+<input type="radio" name="sexo" value="3"
+id="Sexo2">
+<label for"sexo3"> Femenino</label><br/>
+</form>
+
+
+</form>
+<fieldset>
+
+
+
+<form action="autentificar.php">
+<label for="Código">Código</label><br/>
+<input type="text size="10" maxlength="10" id="codigo"><br/>
+<label for="Password">Password</label><br/>
+<input type="text size="10" maxlength="10" id="Password"><br/>
+
+<label> <for ="Domicilio"> Domicilio</label> 
+<br/> <input type=text" size="20" maxlength ="20"><br/>
+
+<label> <for ="Colonia"> Colonia</label> 
+<br/> <input type=text" size="20" maxlength ="20"></br>
+
+<label> <for ="Télefono"> Télefono</label> 
+<br/> <input type=text" size="20" maxlength ="20"><br/>
+
+
+
+
+<form>
+<label> Interes en:</label><br/>
+<input type="checkbox" name="Interes" value="1"
+id="Interes1">
+
+<label for"Interes2"> Deporte</label><br/>
+<input type="checkbox" name="Interes" value="2"
+id="Interes2">
+
+<label for"Interes3"> Ciencia</label><br/>
+<input type="checkbox" name="Interes" value="3"
+id="Interes3">
+
+<label for"Interes4"> Educacion</label><br/>
+<input type="checkbox" name="Interes" value="4"
+id="Interes4">
+
+<label for"Interes5"> Música</label><br/>
+<input type="checkbox" name="Interes" value="5"
+id="Interes5">
+
+<label for"Interes3"> Otro</label><br/>
+</form>
+
+
+<form>
+<input type="submit" value="Guardar">
+<input type="button"Value="Cancelar"
+onclick="guardar">
+
+
+
+</head>
+
+<body>
+
+</body>
+
+</html>
+
