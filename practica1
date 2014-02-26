@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+
+<table>
+<tr>
+<td> celda 1 1 </td>
+<td> celda 1 2 </td>
+</tr>
+<tr>
+<td> celda 2 1 </td>
+<td> celda 2 2 </td>
+</tr>
+<tr>
+<td> celda 3 1 </td>
+<td> celda 3 2 </td>
+</tr>
+</table>
+
+<ul>
+<li> casa></li>
+<li> cama></li>
+<li> cazar></li>
+<li> camisa></li>
+<li> carro></li>
+</ul>
+
+<section>
+<article>
+<p>mi vida se remite a una sola cosa aprender de cada problema enfrentado dentro
+de la misma y continuar con un camino el cual siempre deve de tratar de ser 
+el correcto</p>
+</article>
+</section>
+
+<img src="hada-luna.jpg" alt="hadas">
+<a title="hada-luna" href="https://www.google.com.mx/search?q=hadas+imagenes&tbm=isch&imgil=D0f42nNQzYJITM%253A%253Bhttps%253A%252F%252Fencrypted-tbn0.gstatic.com%252Fimages%253Fq%253Dtbn%253AANd9GcQNUZmFdin34p4Lb68AkHmLuaegw0C1ALjIKbvyzHcB7wjvG5gu-w%253B451%253B478%253BeYc8zv0gv6kGwM%253Bhttp%25253A%25252F%25252Frosarum.wordpress.com%25252Fmis-imagenes-favoritas%25252Fhadas%25252F&source=iu&usg=__f174fbF4UFaMld0Hgu_ohcF_p3o%3D&sa=X&ei=cgEJU7HfOIykyAGssoDoCw&ved=0CCsQ9QEwAQ&biw=1280&bih=675#facrc=_&imgdii=_&imgrc=D0f42nNQzYJITM%253A%3BeYc8zv0gv6kGwM%3Bhttp%253A%252F%252Frosarum.files.wordpress.com%252F2010%252F04%252Fhada-luna.gif%253Fw%253D500%3Bhttp%253A%252F%252Frosarum.wordpress.com%252Fmis-imagenes-favoritas%252Fhadas%252F%3B451%3B478">
+<img src="hada-luna"> click y aparese la imagen
+</a>
+</html>
