@@ -1,0 +1,90 @@
+<!DOCTYPE.html>
+<html>
+
+<table BORDER="1" BORDERCOLOR="blue" CELLSPACING="0">
+  <tr>
+    
+    <td>Fila 1, 
+<video src="video 1.mp4" controls>
+</video>
+
+</td>
+ <td>fila 1, 
+<video src="C:\Users\Alumno\Desktop\proyecto\video" controls>
+</video>
+</td>
+  </tr>
+  
+<tr>
+    <td>Fila 2, 
+<video src="C:\Users\Alumno\Desktop\proyecto\video" controls>
+</video></td>
+
+<td>Fila 2,
+ <video src="C:\Users\Alumno\Desktop\proyecto\video" controls>
+</video>
+</td>
+  </tr>
+
+ <tr>
+    <td>Fila 3,
+ <video src="C:\Users\Alumno\Desktop\proyecto\video" controls>
+</video> </td>
+
+<td>Fila 3,
+ <video src="C:\Users\Alumno\Desktop\proyecto\video"  controls>
+</video></td>
+</tr>
+ 
+</table> 
+</html>
+
+
+
+<!DOCTYPE.html>
+<html>
+<table BORDER="1" BORDERCOLOR="red" CELLSPACING="0">
+  <tr>
+    <td>Fila 1, -----, titulo ,Artista, ----- </td>
+  
+  </tr>
+<tr>
+    <td>Fila 2, kalimba, Mr. Scruff,celda 3, <audio src="Kalimba.mp3"controls autoplay loop> </audio> </td>
+  </tr>
+
+<tr>
+    <td>Fila 3, kalimba, Mr. Scruff,celda 3, <audio src= "Kalimba.mp3"controls autoplay loop> </audio> </td>
+  </tr>
+
+<tr>
+    <td>Fila 4, kalimba, Mr. Scruff,celda 3,<audio src= "C:\Users\Public\Music\Sample Music\musica"controls autoplay loop> </audio> </td>
+  </tr>
+<tr>
+    <td>Fila 5, kalimba,Mr. Scruff,celda 3, <audio src= "C:\Users\Public\Music\Sample Music\musica"controls autoplay loop> </audio> </td>
+  </tr>
+<tr>
+    <td>Fila 6, kalimba,Mr. Scruff,celda 3,<audio src= "C:\Users\Public\Music\Sample Music\musica"controls autoplay loop> </audio> </td>
+  </tr>
+<tr>
+    <td>Fila 7, kalimba, Mr. Scruff,celda 3, <audio src= "C:\Users\Public\Music\Sample Music\musica"controls autoplay loop> </audio> </td>
+  </tr>
+<tr>
+    <td>Fila 8, kalimba,Mr. Scruff,celda 3, <audio src= "C:\Users\Public\Music\Sample Music\musica"controls autoplay loop> </audio> </td>
+  </tr>
+<tr>
+    <td>Fila 9, kalimba,Mr. Scruff,celda 3,<audio src= "C:\Users\Public\Music\Sample Music\musica"controls autoplay loop> </audio> </td>
+  </tr>
+<tr>
+    <td>Fila 10, kalimba, Mr. Scruff,celda 3, <audio src= "C:\Users\Public\Music\Sample Music\musica"controls autoplay loop> </audio> </td>
+  </tr>
+<tr>
+    <td>Fila 11, kalimba, Mr. Scruff,celda 3, <audio src= "C:\Users\Public\Music\Sample Music\musica"controls autoplay loop> </audio> </td>
+  </tr>
+
+
+</table> 
+</html>
+
+
+
+
